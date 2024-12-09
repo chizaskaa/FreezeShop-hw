@@ -1,0 +1,46 @@
+.baner{
+    margin: 0 auto;
+    width: 900px;
+    height: 735px;
+    position: relative;
+}
+.img-baner{
+    position: absolute;
+}
+.circle{
+    background: #c8c10d;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    right: 165px;
+    top: 455px;
+}
+.circleshadow{
+    background: #cb3362;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    right: 150px;
+    top: 450px;
+    filter: opacity(0.9);
+}
+.name1{
+    text-transform: uppercase;
+    position: absolute;
+    right: 190px;
+    top: 490px;
+    font-size: 25px;
+    color: white;
+    font-family: QuicksandB;
+}
+.name2{
+    text-transform: uppercase;
+    position: absolute;
+    right: 180px;
+    top: 520px;
+    font-size: 25px;
+    color: white;
+    font-family: QuicksandB;
+}
