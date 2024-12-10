@@ -1,0 +1,94 @@
+.single-post .container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.single-post .blok1{
+    float: left;
+    width: 600px;
+    margin-right: 30px;
+}
+.single-post .blok1 img{
+    width: 600px;
+    margin: -10px;
+}
+.single-post .blok1 h4{
+    color: #cb3362;
+    font-size: 30px;
+    font-family: LatoB;
+    clear: both;
+    padding-top: 40px;
+}
+.single-post .blok1 p{
+    color: #7a6666;
+    font-family: LatoR;
+    line-height: 30px;
+}
+.single-post .blok1 .p1{
+    font-size: 16px;
+}
+.single-post .blok1 .p2{
+    font-size: 18px;
+    margin-top: 30px;
+}
+.single-post .blok2{
+    float: left;
+    background: #eae7e8;
+    width: 300px;
+    height: 760px;
+    margin-top: -10px;
+}
+.single-post .blok2 p{
+    color: #7a6666;
+    font-family: LatoR;
+    line-height: 30px;
+    text-align: center;
+    padding: 0px 30px;
+}
+.single-post .button{
+    text-align: center;
+    margin-top: 10px;
+}
+.single-post .blok2 button{
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+    height: 50px;
+    background: #eae7e8;
+    color: #7a6666;
+    font-family: LatoR;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid #cbb5bc;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.single-post .blok2 h4{
+    color: #cb3362;
+    font-size: 40px;
+    text-align: center;
+    font-family: MagraB;
+    margin-top: 40px;
+}
+.single-post .blok2 .img{
+    text-align: center;
+    margin-bottom: -40px;
+}
+.single-post .back-home button{
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+    height: 50px;
+    background: white;
+    color: #7a6666;
+    font-family: LatoR;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid #cbb5bc;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-top: 100px;
+}
+.single-post .back-home{
+    clear: both;
+    margin-left: 200px;
+}

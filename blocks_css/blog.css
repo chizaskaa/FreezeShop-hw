@@ -1,0 +1,109 @@
+.blog .bloks{
+    margin: 100px 0px;
+}
+.blog hr{
+    clear: both;
+    background-color: #cbb5bc;
+    width: 500px;
+    height: 3px;
+    margin: 40px;
+    border: none;
+}
+.blog .button{
+    text-align: center;
+    margin-top: 40px;
+}
+.blog .button button, .button2 button{
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+    height: 50px;
+    background: white;
+    color: #7a6666;
+    font-family: LatoR;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid #cbb5bc;
+    cursor: pointer;
+}
+.blog .button2{
+    clear: both;
+    margin: 100px 0px 100px 200px;
+}
+.blog .blok1{
+    float: left;
+    width: 630px;
+}
+.blog .blok1 img{
+    padding-top: 30px;
+    float: left;
+}
+.blog .blok1 .text{
+    padding-top: 20px;
+    height: 240px;
+}
+.blog .blok1 .text h4{
+    color: #cb3362;
+    font-size: 30px;
+    font-family: LatoB;
+}
+.blog .blok1 .text p{
+    color: #7a6666;
+    font-family: LatoR;
+    line-height: 30px;
+}
+.blog .blok1 .text .p1, .blok2 .text .p1{
+    font-size: 16px;
+}
+.blog .blok1 .text .p2, .blok2 .text .p2{
+    font-size: 18px;
+    margin-top: 30px;
+}
+.blog .blok2{
+    float: left;
+    background: #eae7e8;
+    width: 300px;
+    height: 800px;
+    margin: 25px 0px 0px 10px;
+}
+.blog .blok2 .text{
+    height: 240px;
+    margin: 30px;
+}
+.blog .blok2 .text h4{
+    color: #cb3362;
+    font-size: 30px;
+    font-family: LatoB;
+    text-align: center;
+}
+.blog .blok2 .text p{
+    color: #7a6666;
+    font-family: LatoR;
+    line-height: 30px;
+    text-align: center;
+}
+.blog .blok2 .button button{
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+    height: 50px;
+    background: #eae7e8;
+    color: #7a6666;
+    font-family: LatoR;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid #cbb5bc;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.blog .blok2 h4{
+    color: #cb3362;
+    font-size: 40px;
+    text-align: center;
+    font-family: MagraB;
+    margin-top: 40px;
+}
+.blog .blok2 .img{
+    text-align: center;
+    margin-bottom: -40px;
+}

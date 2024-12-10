@@ -1,0 +1,46 @@
+.block{
+    margin: 30px;
+}
+.block .block1{
+    width: 250px;
+    height: 550px;
+    background: #eae7e8;
+    margin: 0px 30px 80px 0px;
+    float: left;
+    position: relative;
+}
+ul .li-head{
+    color: #cb3362;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: LatoR;
+}
+.block1 ul {
+    color: #7a6666;
+    position: absolute;
+    top: 50px;
+    left: 45px;
+    text-align: center;
+    font-family: RobotR;
+    font-size: 13px;
+}
+.block .block2{
+    width: 800px;
+}
+h6{
+    color: #cb3362;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: LatoR;
+}
+.block2 p {
+    color: #7a6666;
+    font-family: RobotR;
+    font-size: 13px;
+    margin: 30px;
+}
+a{
+    color: #7a6666;
+}
